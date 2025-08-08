@@ -30,6 +30,7 @@ A complete data pipeline architecture connecting raw data ingestion to advanced 
 ![Data Source](https://github.com/naveen12334/Taxi-Operations-Analytics/blob/main/Lakehouse/Parque%20Data.png)
 
 📥 ***Data Ingestion***
+
 🏭 **Warehouse** – Stores processed datasets.
 
 📂 **Staging Data** – Holds intermediate cleaned data for processing.
