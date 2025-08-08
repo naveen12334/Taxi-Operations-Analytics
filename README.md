@@ -18,4 +18,4 @@ This project not only demonstrates the power of Microsoft Fabric for large-scale
 
 **Solution Architect**
 
-(https://github.com/naveen12334/Taxi-Operations-Analytics/blob/main/Architect/Architect.png)
+![Solution Architecture](https://github.com/naveen12334/Taxi-Operations-Analytics/raw/main/Architect/Architect.png)
