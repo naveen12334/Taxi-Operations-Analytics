@@ -1,4 +1,4 @@
-                                                                                        **Taxi Operations Analytics**
+****Taxi Operations Analytics****
 
 **Project Description**
 
@@ -42,7 +42,7 @@ This project not only demonstrates the power of Microsoft Fabric for large-scale
 
 **Data Pipelines**
 
-*Folder Path* - ![](https://github.com/naveen12334/Taxi-Operations-Analytics/tree/main/Data%20Pipelines)
+[📂 Folder Path](https://github.com/naveen12334/Taxi-Operations-Analytics/tree/main/Data%20Pipelines)
 
 ![Data Pipelines](https://github.com/naveen12334/Taxi-Operations-Analytics/blob/main/Data%20Pipelines/Orchestration/Pipleline%20Success.png)
 
@@ -50,6 +50,6 @@ This project not only demonstrates the power of Microsoft Fabric for large-scale
 
 ![](https://github.com/naveen12334/Taxi-Operations-Analytics/blob/main/Data%20Flow/Data%20Transformation.png)
 
-**Power BI Dashboard'**
+**Power BI Dashboard**
 
 ![](https://github.com/naveen12334/Taxi-Operations-Analytics/blob/main/Power%20BI%20Dashboard/PBI%20Dashboard.png)
