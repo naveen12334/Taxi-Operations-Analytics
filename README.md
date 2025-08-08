@@ -1,20 +1,21 @@
-****Taxi Operations Analytics****
+🚖 Taxi Operations Analytics
 
-**Project Description**
+📌 Project Description
 
-This is an end-to-end data analytics project built on Microsoft Fabric, leveraging New York State Taxi trip data to deliver actionable insights on urban mobility trends. The solution covers the entire data lifecycle — from ingestion to reporting:
+This is an end-to-end data analytics project built on Microsoft Fabric, leveraging New York State Taxi trip data to deliver actionable insights on urban mobility trends.
+The solution covers the entire data lifecycle — from data ingestion to reporting & visualization.
 
-*Data Engineering*: Ingest and orchestrate raw taxi trip data using Data Factory pipelines.
+🔹 Process Overview
 
-*Data Integration*: Combine multiple datasets, including trip records, fare details, and geolocation data, into a unified model.
+📥 Data Engineering – Ingest and orchestrate raw taxi trip data using Data Factory pipelines.
 
-*Data Cleaning & Transformation*: Apply Dataflows and transformation logic to standardize formats, remove inconsistencies, and enrich records.
+🔗 Data Integration – Merge multiple datasets like trip records, fare details, and geolocation data.
 
-*Data Analysis*: Identify patterns in ride frequency, fare pricing, and passenger behavior across time, seasons, and geographies.
+🧹 Data Cleaning & Transformation – Apply transformations to standardize, clean, and enrich data.
 
-*Data Visualization*: Build interactive dashboards and reports in Power BI to support decision-making for transportation planning and business operations.
+📊 Data Analysis – Identify patterns in ride frequency, pricing, and passenger behavior.
 
-This project not only demonstrates the power of Microsoft Fabric for large-scale data processing but also delivers a practical, real-world analytics use case with potential applications in urban planning, taxi fleet optimization, and policy-making.
+📈 Data Visualization – Build interactive Power BI dashboards for business decisions.
 
 **Solution Architect**
 
